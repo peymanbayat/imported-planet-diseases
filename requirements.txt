@@ -2,6 +2,7 @@ opencv-contrib-python-headless
 tensorflow-cpu==2.5.3
 streamlit==0.65.2
 numpy==1.19.2
+#numpy==1.25.2
 pandas
 pillow
 keras==2.3.0
